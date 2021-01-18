@@ -6,7 +6,7 @@ then game will add one color on every round and you'll need to keep clicking the
 
 Play it with your family and friends. **Challenge them to see who can beat you**!
 
-<img src="https://postimg.cc/zVWRNsr9" alt="game preview - level 9" width="100"/>
+[![level9.png](https://i.postimg.cc/Hsv0wmPs/level9.png)](https://postimg.cc/zVWRNsr9)
 
 ## Instructions
 
