@@ -4,9 +4,9 @@ Simon Game is a super fun game of memory skill.
 Computer will highlight a color and you need to click on the corresponding box,\
 then game will add one color on every round and you'll need to keep clicking the sequence.
 
-## Play it with your family and friends. **Challenge them to see who can beat you**!
+Play it with your family and friends. **Challenge them to see who can beat you**!
 
-![](https://postimg.cc/zVWRNsr9 =100)
+<img src="https://postimg.cc/zVWRNsr9" alt="game preview - level 9" width="100"/>
 
 ## Instructions
 
